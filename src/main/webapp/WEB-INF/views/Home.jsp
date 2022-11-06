@@ -8,9 +8,13 @@
 </head>
 <body>
   <c:import url="../templates/Header.jsp" />
-  <c:import url="../templates/Hero.jsp" />
-  <c:import url="../templates/Dogs.jsp" />
-  <div class="h-screen"></div>
+  <main class="flex flex-col gap-8">
+    <c:import url="../templates/home/Hero.jsp" />
+    <c:import url="../templates/home/Dogs.jsp" />
+    <div></div>
+    <c:import url="../templates/home/Cats.jsp" />
+    <div></div>
+  </main>
   <c:import url="../templates/Footer.jsp" />
 </body>
 </html>
