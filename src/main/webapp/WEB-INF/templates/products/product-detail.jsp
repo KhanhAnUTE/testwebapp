@@ -3,7 +3,7 @@
 <html>
 <head>
     <title>Petshop - Mèo Anh lông ngắn Bicolor cái</title>
-    <%@ include file="../templates/head.html" %>
+    <%@ include file="../../templates/head.html" %>
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
 
@@ -21,7 +21,7 @@
     <link href="css/style.css" rel="stylesheet">
 </head>
 <body>
-    <%@ include file="../templates/Header.jsp" %>
+    <%@ include file="../../templates/Header.jsp" %>
 
     <!-- Page Header Start -->
     <div class="container-fluid bg-secondary mb-5">
@@ -226,7 +226,7 @@
     <!-- Products End -->
 
     
-    <%@ include file="../templates/Footer.jsp" %>
+    <%@ include file="../../templates/Footer.jsp" %>
 
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>

@@ -3,7 +3,7 @@
 <html>
 <head>
     <title>Petshop - Sản phẩm</title>
-    <%@ include file="../templates/head.html" %>
+    <%@ include file="../../templates/head.html" %>
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
 
@@ -21,7 +21,7 @@
     <link href="css/style.css" rel="stylesheet">
 </head>
 <body>
-    <%@ include file="../templates/Header.jsp" %>
+    <%@ include file="../../templates/Header.jsp" %>
     <!-- <div class="h-screen"></div> -->
 
     <!-- Page Header Start -->
@@ -55,6 +55,6 @@
     </div>
     <!-- Products End -->
     
-    <%@ include file="../templates/Footer.jsp" %>
+    <%@ include file="../../templates/Footer.jsp" %>
 </body>
 </html>

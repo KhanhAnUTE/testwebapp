@@ -34,6 +34,7 @@
             </div>
             <a href="<c:url value="/login"/>" class="hidden rounded px-3 py-2 transition hover:text-brand sm:inline">Đăng nhập</a>
             <a href="<c:url value="/signup"/>" class="rounded bg-brand-600 px-3 py-2 text-stone-100 transition hover:bg-brand">Đăng ký</a>
+            <a href="<c:url value="/cart"/>" class="hidden rounded px-3 py-2 transition hover:text-brand sm:inline">Giỏ hàng</a>
         </nav>
     </nav>
 </header>

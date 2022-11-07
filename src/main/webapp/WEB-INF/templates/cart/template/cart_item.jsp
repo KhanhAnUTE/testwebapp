@@ -1,6 +1,6 @@
 <%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <td class="align-middle text-left flex">
-	<img src="img/product-1.jpg" class="mr-0" alt="" style="width: 90px;">
+	<img src="../img/product-1.jpg" class="mr-0" alt="" style="width: 90px;">
 	<p class="p-1 hide-content-2 m-0">Mèo Anh lông ngắn Bicolor Mèo Anh lông ngắn Bicolor Mèo Anh lông ngắn Bicolor</p></td>
 <td class="align-middle">10,900,000 đ</td>
 <td class="align-middle">
